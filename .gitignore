@@ -1,8 +1,2 @@
 auto_clicker
-*.o
 *.h
-.vscode
-.idea
-*.sln
-*.xcodeproj
-*.swp
